@@ -1,0 +1,114 @@
+C:\Users\bdb\Desktop\Roll A Ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\nunit.framework.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEditor.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEditor.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\nunit.framework.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\bdb\Desktop\Roll A Ball\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\bdb\Desktop\Roll A Ball\obj\Debug\Assembly-CSharp.dll
+C:\Users\bdb\Desktop\Roll A Ball\obj\Debug\Assembly-CSharp.pdb
+G:\ditto\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\ditto\obj\Debug\Assembly-CSharp.dll
+G:\ditto\Temp\bin\Debug\Assembly-CSharp.dll
+G:\ditto\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\ditto\Temp\bin\Debug\Facebook.Unity.Settings.dll
+G:\ditto\Temp\bin\Debug\nunit.framework.dll
+G:\ditto\Temp\bin\Debug\UnityEditor.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.Purchasing.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.Timeline.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.UI.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+G:\ditto\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+G:\ditto\Temp\bin\Debug\Unity.Cecil.dll
+G:\ditto\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\ditto\Temp\bin\Debug\ExCSS.Unity.dll
+G:\ditto\Temp\bin\Debug\Unity.DataContract.dll
+G:\ditto\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+G:\ditto\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\ditto\Temp\bin\Debug\Unity.CecilTools.dll
+G:\ditto\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+G:\ditto\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+G:\ditto\Temp\bin\Debug\UnityEngine.xml
+G:\ditto\Temp\bin\Debug\UnityEditor.xml
+G:\ditto\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.UI.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+G:\ditto\Temp\bin\Debug\nunit.framework.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.Timeline.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\ditto\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+G:\ditto\obj\Debug\Assembly-CSharp.pdb
+G:\not decided(ditto)\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\not decided(ditto)\obj\Debug\Assembly-CSharp.dll
+G:\not decided(ditto)\Temp\bin\Debug\Assembly-CSharp.dll
+G:\not decided(ditto)\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\not decided(ditto)\Temp\bin\Debug\Facebook.Unity.Settings.dll
+G:\not decided(ditto)\Temp\bin\Debug\nunit.framework.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEditor.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.Purchasing.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.TestRunner.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.Timeline.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.UI.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+G:\not decided(ditto)\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.Cecil.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\not decided(ditto)\Temp\bin\Debug\ExCSS.Unity.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.DataContract.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.CecilTools.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+G:\not decided(ditto)\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEditor.xml
+G:\not decided(ditto)\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.UI.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.TestRunner.xml
+G:\not decided(ditto)\Temp\bin\Debug\nunit.framework.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.Timeline.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\not decided(ditto)\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+G:\not decided(ditto)\obj\Debug\Assembly-CSharp.pdb
